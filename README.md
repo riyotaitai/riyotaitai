@@ -1,4 +1,13 @@
-## Hi there 👋
+# 👋 こんにちは、りよたいたい です
+
+## 自己紹介
+- 所属: 情報技術研究部
+- 好きなこと:読書 
+- 今後の目標: エンジニアとして技術力を磨きたい
+
+## これから作りたいもの
+簡易的な家計簿とかとか
+
 
 <!--
 **riyotaitai/riyotaitai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
